@@ -1,2 +1,1 @@
-# Class118
-Digital Diary
+# PRO-C118-Reference-Code
